@@ -10,7 +10,7 @@ https://github.com/GaelLemus
 
 * Lab 1
 
-  The very first lab is one of my faovrite labs. This is due to how much I learned about the terminal and linux. By learning how to use the terminal, I also learned the very basics which allowed me to do the rest of the labs. 
+  The very first lab is one of my favorite labs. This is due to how much I learned about the terminal and linux. By learning how to use the terminal, I also learned the very basics which allowed me to do the rest of the labs. 
 
 * Lab 7 Part 2
 
